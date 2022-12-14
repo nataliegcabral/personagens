@@ -1,7 +1,7 @@
 [
     {
         "nome": "Finn",
-        "imagem": "https://www.fatosdesconhecidos.com.br/wp-content/uploads/2016/10/S1e25_Finn_with_five_fingers-600x491.png",
+        "imagem": "https://i.pinimg.com/564x/5e/78/52/5e7852d7066a9acd31d54a296a62cf04.jpg",
         "atributos": {
         "força": 60,
         "defesa": 50,
@@ -10,16 +10,16 @@
     },
     {
         "nome": "Jake",
-        "imagem": "",
+        "imagem": "https://i.pinimg.com/564x/16/0e/84/160e84fbfb3afc891c3fcfa819bafd41.jpg",
         "atributos": {
         "força": 50,
         "defesa": 80,
-        "magia": 30
+        "magia": 60
         }
     },
     {
         "nome": "Princesa Jujuba",
-        "imagem": "",
+        "imagem": "https://i.pinimg.com/564x/f7/73/32/f773323fb10fa35979ecac41748a276a.jpg",
         "atributos": {
         "força": 30,
         "defesa": 60,
@@ -28,7 +28,7 @@
     },
     {
         "nome": "Princesa Caroço",
-        "imagem": "",
+        "imagem": "https://i.pinimg.com/564x/ab/b2/21/abb2215233e7107ee568795c2a1084c5.jpg",
         "atributos": {
         "força": 20,
         "defesa": 30,
@@ -37,7 +37,7 @@
     },
     {
         "nome": "Marceline",
-        "imagem": "",
+        "imagem": "https://i.pinimg.com/564x/49/de/fe/49defe4e5b5d2371385a6159133e4d16.jpg",
         "atributos": {
         "força": 80,
         "defesa": 60,
