@@ -1,0 +1,47 @@
+[
+    {
+        "nome": "Finn",
+        "imagem": "https://www.fatosdesconhecidos.com.br/wp-content/uploads/2016/10/S1e25_Finn_with_five_fingers-600x491.png",
+        "atributos": {
+        "força": 60,
+        "defesa": 50,
+        "magia": 10
+        }
+    },
+    {
+        "nome": "Jake",
+        "imagem": "",
+        "atributos": {
+        "força": 50,
+        "defesa": 80,
+        "magia": 30
+        }
+    },
+    {
+        "nome": "Princesa Jujuba",
+        "imagem": "",
+        "atributos": {
+        "força": 30,
+        "defesa": 60,
+        "magia": 80
+        }
+    },
+    {
+        "nome": "Princesa Caroço",
+        "imagem": "",
+        "atributos": {
+        "força": 20,
+        "defesa": 30,
+        "magia": 30
+        }
+    },
+    {
+        "nome": "Marceline",
+        "imagem": "",
+        "atributos": {
+        "força": 80,
+        "defesa": 60,
+        "magia": 60
+        }
+    }
+]
